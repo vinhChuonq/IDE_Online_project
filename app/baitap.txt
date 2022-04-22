@@ -1,0 +1,27 @@
+
+Bài 1: Tính S(n) = 1 + 2 + 3 + … + n
+Bài 2: Tính S(n) = 1^2 + 2^2 + … + n^2
+Bài 3: Tính S(n) = 1 + ½ + 1/3 + … + 1/n
+Bài 4: Liệt kê tất cả các “ước số” của số nguyên dương n
+Bài 5: Tính tổng tất cả các “ ước số” của số nguyên dương n
+Bài 6:Tính tích tất cả các “ước số” của số nguyên dương n
+Bài 7: Cho số nguyên dương n. Kiểm tra xem n có phải là số hoàn thiện hay không
+Bài 8: Cho số nguyên dương n. Kiểm tra xem n có phải là số nguyên tố hay không
+Bài 9: Cho số nguyên dương n. Kiểm tra xem n có phải là số chính phương hay không
+Bài 10: Hãy đếm số lượng chữ số của số nguyên dương n
+Bài 11: Hãy tính tổng các chữ số của số nguyên dương n
+Bài 12: Hãy tính tích các chữ số của số nguyên dương n
+Bài 13: Hãy đếm số lượng chữ số lẻ của số nguyên dương n
+Bài 14: Hãy tính tổng các chữ số chẵn của số nguyên dương n
+Bài 15: Cho 2 số nguyên dương a và b. Hãy tìm bội chung nhỏ nhất của 2 số này
+Bài 16 + 65 + 66: Giải phương trình bậc 1, 2, 4
+Bài 17: Tính S(x, n) = x – x^2 + x^3 + … + (-1)^n+1 * x^n
+Bài 18: Tính S(x, n) = -x^2 + x^4  + … + (-1)^n * x^2n
+Bài 19: Tính S(x, n) = x – x^3 + x^5 + … + (-1)^n * x^2n+1
+Bài 20: Tính S(n) = 1 – 1/(1 + 2) + 1/(1 + 2 + 3)  + … + (-1)^n+1 * 1/(1 + 2 + 3+ … + n)
+Bài 21: Tính S(x, n) = -x + x^2/(1 + 2) – x^3/(1 + 2 + 3) + … + (-1)^n * x^n/(1 + 2 +… + n)
+Bài 22: Tính S(x, n) = – x + x^2/2! – x^3/3! + … + (-1)^n * x^n/n!
+Bài 23: Tính S(x, n) = -1 + x^2/2! – x^4/4! + … + (-1)^n+1 * x^2n/(2n)!
+Bài 24: Tính S(x, n) = 1 – x + x^3/3! – x^5/5! + … + (-1)^n+1 * x^2n+1/(2n + 1)!
+Bài 25: Kiểm tra số nguyên 4 byte có dạng 2^k hay không
+Bài 26: Kiểm tra số nguyên 4 byte có dạng 3^k hay không
